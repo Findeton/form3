@@ -7,6 +7,11 @@ Tested on ubuntu 16.04 64 bits with:
  * docker 17.09.0-ce 
  * docker-compose 1.15.0
 
+Read here how to install the latest docker and docker-compose on Ubuntu:
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
+https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-16-04
+
 # tests
 
 To run the tests, simply execute:
