@@ -15,6 +15,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-o
 # tests
 
 To run the tests, simply execute:
+
     sbt test
 
 # run system
