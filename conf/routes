@@ -1,0 +1,11 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# https://www.playframework.com/documentation/latest/ScalaRouting
+# ~~~~
+
+# An example controller showing a sample home page
+POST     /get-list                           controllers.RootController.getList
+GET      /get/:id                            controllers.RootController.get(id: String)
+POST     /create                             controllers.RootController.create
+POST     /update                             controllers.RootController.update
+
